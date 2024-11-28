@@ -3,5 +3,6 @@
 /backend/obj/
 
 # Frontend
-/frontend/node_modules/
-/frontend/build/
+/front-end/node_modules/
+/front-end/build/
+
